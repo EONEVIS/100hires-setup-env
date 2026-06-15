@@ -51,3 +51,20 @@ This repository tracks my step-by-step process for setting up the local environm
   git add README.md
   git commit -m "Final project setup markdown log complete"
   git push origin main
+
+  Programmatic B2B Outbound Research Project (Phase 2)
+This workspace contains research assets analyzing modern programmatic outbound architectures for B2B SaaS.  
+
+Why I Chose Programmatic B2B Cold Outreach
+B2B outbound customer acquisition has shifted from generic volume blasting to a technical data pipeline. Success in 2026 relies on strict deliverability physics (horizontal sending setup, DNS authentication, and removing tracking pixels) paired with automated intent triggers (such as technographic changes or hiring signals).  
+
+Repository Directory Map
+/research/sources.md: A curated index of 10 industry practitioners (e.g., Jesse Ouellette, Nick Abraham, Mark Colgan, and AJ Cassata) who build real GTM pipelines, including links and annotations .
+
+/research/linkedin-posts/: Scraped copy templates showing actual practitioner engagement and copy structures for deliverability (Jesse Ouellette) and CTAs (AJ Cassata).  
+
+/research/youtube-transcripts/: Real transcripts fetched from expert YouTube channels to detail simplified, high-impact data enrichment workflows.  
+
+/research/other/: Custom code scripts (Python with the Supadata API and JavaScript with the ScrapeCreators API) demonstrating how to programmatically extract structured context from the web.  
+
+Completed and logged by Elijah.
