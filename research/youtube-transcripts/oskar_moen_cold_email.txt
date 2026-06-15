@@ -1,0 +1,7 @@
+Oskar Moen - "Master Clay In 16 Minutes | Clay Tutorial For Beginners"
+Video ID: Bu_s-dVAryY | Length: 16:32
+Hey guys, Oskar here. Today I am going to show you why you do not need super advanced, crazy workflows to book meetings with Clay. Most people get intimidated because they think they need to be software developers to use this tool, but that is completely wrong.
+Today we are building a simple, high-impact outbound table. First, we pull our seed list of target company URLs. Next, we use Clearbit to enrich and verify missing domains.
+Now, instead of guessing what to say, we are going to use the native OpenAI integration inside Clay. We write a clean prompt telling the AI to read the prospect's company 'About' section, identify if they are B2B or B2C, and extract their primary product offering.
+Then we use the waterfall enrichment feature to locate the exact decision-maker at that company and find their business email. We verify it using NeverBounce so we never bounce.
+We end up with a fully personalized, verified outreach sheet ready to push to Smartlead in under 20 minutes. Stop waiting for instructions, get in there and build this table. See you in the next video!
